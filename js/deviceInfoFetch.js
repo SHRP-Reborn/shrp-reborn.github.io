@@ -6,7 +6,7 @@ async function fetchData(url){
     init(data)
 }
 //fetchData('js/deviceData.json');
-fetchData('https://raw.githubusercontent.com/SHRP-Devices/device_data/master/deviceData.json');
+fetchData('https://raw.githubusercontent.com/SHRP-Reborn/device_data/main/deviceData.json');
 
 function init(x){
     window.DATA=x;

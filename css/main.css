@@ -76,7 +76,7 @@ h5 {
   font-family: "Poppins", sans-serif;
   font-size: 40px;
   font-weight: 700;
-  color: #191c1e;
+  /* color: #191c1e; */
 }
 
 ul {
@@ -818,7 +818,7 @@ button:focus {
     download
    ========================================================================== */
 #download {
-  background: #f6fbfd;
+  background: #161b22;
   padding: 80px 0 0px;
 }
 
@@ -1116,7 +1116,7 @@ button:focus {
     App Features Section Style
    ========================================================================== */
 #app-features {
-  background: #f6fbfd;
+  background: #0d1117;
 }
 
 #app-features .content-left {
@@ -1199,11 +1199,15 @@ button:focus {
   width: 100%;
 }
 
+#features-two{
+  background-color: #161b22;
+}
+
 /* ==========================================================================
  Screens Section Start
  ========================================================================== */
 .screens-shot {
-  background: #f6fbfd;
+  background: #0d1117;
 }
 
 #screens .owl-controls .owl-buttons {
