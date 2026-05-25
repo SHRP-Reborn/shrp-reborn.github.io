@@ -5,13 +5,6 @@
   /* Page Loader active
   ========================================================*/
   $('#preloader').fadeOut();
-
-  /* 
-  CounterUp
-  ========================================================================== */
-  $('.counter').counterUp({
-    time: 500
-  });  
   
   /* 
   MixitUp
@@ -29,42 +22,6 @@
       scale: 0.6,
       animationTime: 1000,
       showTime: 4000
-    });   
-
-  /* 
-   Clients Sponsor 
-   ========================================================================== */
-    var owl = $("#clients-scroller");
-    owl.owlCarousel({
-      items:5,
-      itemsTablet:3,
-      margin:90,
-      stagePadding:90,
-      smartSpeed:450,
-      itemsDesktop : [1199,4],
-      itemsDesktopSmall : [980,3],
-      itemsTablet: [768,3],
-      itemsTablet: [767,2],
-      itemsTabletSmall: [480,2],
-      itemsMobile : [479,1],
-    });
-
-  /* Testimonials Carousel 
-  ========================================================*/
-  var owl = $("#testimonials");
-    owl.owlCarousel({
-      navigation: false,
-      pagination: true,
-      slideSpeed: 1000,
-      stopOnHover: true,
-      autoPlay: true,
-      items: 1,
-      itemsDesktop : [1199,1],
-      itemsDesktopSmall : [980,1],
-      itemsTablet: [768,1],
-      itemsTablet: [767,1],
-      itemsTabletSmall: [480,1],
-      itemsMobile : [479,1],
     });   
 
   /* 
@@ -114,16 +71,6 @@
     });
 
   /* 
- VIDEO POP-UP
- ========================================================================== */
-  $('.video-popup').magnificPopup({
-      disableOn: 700,
-      type: 'iframe',
-      mainClass: 'mfp-fade',
-      removalDelay: 160,
-      preloader: false,
-      fixedContentPos: false,
-  });
 
   /* 
    Back Top Link
@@ -183,13 +130,6 @@
   }
   close_toggle();
   $(window).resize(close_toggle);
-
-  /* Nivo Lightbox
-  ========================================================*/   
-   $('.lightbox').nivoLightbox({
-    effect: 'fadeScale',
-    keyboardNav: true,
-  });
 
 }(jQuery));
 

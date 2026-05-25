@@ -50,29 +50,8 @@
   #download .download-wrapper .download-text h4 {
     font-size: 22px;
   }
-  #blog .blog-item-wrapper {
-    margin-bottom: 30px;
-  }
-  #blog .blog-item-text h3 {
-    font-size: 14px;
-  }
   #download .btn {
     margin: 20px 5px;
-  }
-  #counter .counter-text h3 {
-    font-size: 20px;
-  }
-  #counter .counter-box {
-    padding: 15px 20px;
-  }
-  #counter .counter-box p {
-    font-size: 16px;
-  }
-  #counter .counter-box p {
-    font-size: 14px;
-  }
-  #counter .counter-box h3 {
-    font-size: 40px;
   }
   .back-to-top {
     bottom: 55px;
@@ -111,14 +90,8 @@
     text-transform: capitalize;
     margin-top: 6px;
   }
-  #features-two .img-thumb {
-    margin: 30px 0;
-  }
   .text-wrapper h3 {
     font-size: 18px;
-  }
-  .pricing-table .price {
-    padding: 15px;
   }
   #download .download-wrapper .download-text h4 {
     font-size: 18px;
@@ -133,9 +106,6 @@
   }
   .widget {
     margin-top: 30px;
-  }
-  #counter .counter-box h3 {
-    font-size: 40px;
   }
   .contact-info_area {
     margin-top: 15px;
@@ -223,42 +193,20 @@
   .section-header .section-title {
     font-size: 22px;
   }
-  #features-two .img-thumb {
-    margin: 30px 0;
-  }
   .text-wrapper h3 {
     font-size: 18px;
   }
-  #blog .blog-item-wrapper {
-    margin-bottom: 30px;
-  }
-  .pricing-tables .pricing-table {
-    margin-bottom: 30px;
-  }
   .counters .facts-item {
-    margin-bottom: 30px;
-  }
-  .single-feature {
     margin-bottom: 30px;
   }
   .widget {
     margin-top: 30px;
   }
-  .video-promo .video-promo-content h2 {
-    font-size: 20px;
-  }
   .controls a {
     padding: 8px 16px;
   }
-  .offer-area h2 {
-    font-size: 20px;
-    line-height: 30px;
-  }
   .contact-info_area {
     margin-top: 15px;
-  }
-  .pricing-table {
-    margin-bottom: 30px;
   }
   .text-wrapper {
     margin-bottom: 15px;
@@ -370,46 +318,14 @@
   #carousel-area .carousel-control-next {
     right: 0%;
   }
-  #features .nav-tabs {
-    margin-top: -40px;
-  }
-  #features .nav .nav-item .nav-link {
-    font-size: 12px;
-  }
-  #features .nav .nav-item .nav-link i {
-    font-size: 20px;
-  }
-  #counter .counter-text h3 {
-    font-size: 18px;
-  }
-  #features-two .img-thumb {
-    margin: 30px 0;
-  }
   #about .about-content h3 {
     font-size: 22px;
   }
   .text-wrapper h3 {
     font-size: 18px;
   }
-  .testimonial-item {
-    padding: 10px;
-  }
   .text-right {
     text-align: left !important;
-  }
-  .pricing-tables .pricing-table {
-    margin-bottom: 30px;
-  }
-  .subscribe-form .sub-title h3 {
-    font-size: 20px;
-  }
-  .subscribe-form .form-wrapper .form-control {
-    padding: 20px 16px;
-    font-size: 14px;
-  }
-  .subscribe-form .form-wrapper .btn-search {
-    width: 115px;
-    font-size: 11px;
   }
   #download .download-wrapper {
     padding: 30px 20px;
@@ -417,17 +333,8 @@
   #download .download-wrapper h4 {
     font-size: 14px;
   }
-  #blog .blog-item-wrapper {
-    margin-bottom: 30px;
-  }
-  #blog .blog-item-text h3 a {
-    font-size: 16px;
-  }
   #contact .contact-block {
     padding: 30px 15px;
-  }
-  .single-feature {
-    margin-bottom: 30px;
   }
   .copyright p {
     line-height: 26px;
@@ -435,16 +342,9 @@
   .widget {
     margin-top: 30px;
   }
-  .video-promo .video-promo-content h2 {
-    font-size: 20px;
-  }
   .controls a {
     padding: 8px 16px;
     margin-bottom: 5px;
-  }
-  .offer-area h2 {
-    font-size: 20px;
-    line-height: 30px;
   }
   #contact h2 {
     font-size: 18px;

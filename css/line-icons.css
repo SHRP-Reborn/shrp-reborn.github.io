@@ -414,9 +414,6 @@
 .lni-github:before {
   content: "\e981";
 }
-.lni-google-plus:before {
-  content: "\e982";
-}
 .lni-graduation:before {
   content: "\e983";
 }
@@ -893,9 +890,6 @@
 }
 .lni-vector:before {
   content: "\ea21";
-}
-.lni-video:before {
-  content: "\ea22";
 }
 .lni-visa:before {
   content: "\ea23";

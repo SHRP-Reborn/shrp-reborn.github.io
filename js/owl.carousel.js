@@ -931,10 +931,6 @@ if (typeof Object.create !== "function") {
                     window.clearInterval(base.autoPlayInterval);
                 }
 
-                if (base.browser.isTouch !== true && !base.$owlWrapper.hasClass("grabbing")) {
-                    base.$owlWrapper.addClass("grabbing");
-                }
-
                 base.newPosX = 0;
                 base.newRelativeX = 0;
 
@@ -1004,10 +1000,6 @@ if (typeof Object.create !== "function") {
                 ev.target = ev.target || ev.srcElement;
 
                 locals.dragging = false;
-
-                if (base.browser.isTouch !== true) {
-                    base.$owlWrapper.removeClass("grabbing");
-                }
 
                 if (base.newRelativeX < 0) {
                     base.dragDirection = base.owl.dragDirection = "left";
